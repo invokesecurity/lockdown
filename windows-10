@@ -4,3 +4,5 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpd
 reg 123ggit co
 
 test2
+
+test3
