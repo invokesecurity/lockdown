@@ -1,2 +1,6 @@
 ##enable automatic updates
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update" /v AUOptions /t REG_DWORD /d 1 /f
+##testing123
+reg 123ggit co
+
+test2
